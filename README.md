@@ -1,6 +1,5 @@
-<!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Recipe Blog</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,88 +7,43 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
+    <a href="https://www.figma.com/file/2jVBTSKeCYF0dIN6fi0stX/recipe-blog-challenge?node-id=0-1&t=sA4szSftJx9SwaS5-0">
+      Figma
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://albscr.github.io/recipe-blog/">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [How to use](#how-to-use)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
+<img width="1470" alt="image" src="https://user-images.githubusercontent.com/108294869/233850263-5c6ca447-d7c7-4443-b7f0-6f206f3e4295.png">
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+### I learn... 
+<ul>
+<li>
+How to design and create a web page from scratch. </li>
+<li>How to follow a given design specification and convert it into HTML and CSS code.</li>
+<li>How to make a page responsive and adapt to different screen sizes.</li>
+<li>How to use HTML semantic tags to structure the page in an easy to understand and accessible way.</li>
+<li>How to use CSS to style the page and make it more visually appealing.</li>
+<li>How to integrate images and multimedia into a web page.</li>
+<li>How to credit the source of a recipe to respect copyright and ensure the legitimacy of the recipe.</li>
+<li>How to focus on meeting user story requirements to satisfy user needs and expectations.</li>
+<li>How to apply programming and web design best practices to create a clean and easy to maintain and update site.</li>
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+### Users Stories 
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
-
-- [x] User story: This is a completed user stories
-- [ ] User story: This is a incompleted user stories
-- [ ] User story: This is a incompleted 2nd user stories
-
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
-## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
-# recipe-blog
+<ul>
+<li>User story: I can see a recipe with ingredients and instructions</li>
+<li>User story: I can select a checkbox if I have the ingredients</li>
+<li>User story: I can see the number of servings, baking times</li>
+</ul>
